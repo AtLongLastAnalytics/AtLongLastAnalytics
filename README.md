@@ -1,8 +1,8 @@
 # Welcome to AtLongLastAnalytics <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-AtLongLast Analytics helps organizations integrate data with their business processes to make meaningfull changes to how they operate. We do this by providing expert services in data engineering and analytics, data strategy and cloud solutions.
+AtLongLast Analytics helps organizations integrate data with their business processes to make meaningful changes to how they operate. We do this by providing expert services in data engineering and analytics, data strategy support and Azure cloud solutions.
 
-On our GitHub page, we share open-source software that we hope helps make new capability more accessible to the wider community, and educational projects which demonstrate real-world solutions using typical technologies.
+On our GitHub page, we share open-source software that we hope helps make new capability more accessible to the wider community. In the future we will be adding educational projects which demonstrate real-world solutions using typical technologies.
 
 🌱 We will be adding **exciting new** code repositories over the coming months!
 
