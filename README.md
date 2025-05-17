@@ -38,13 +38,13 @@ Our open-source software projects include:
 Some educational courses are coming soon, completely free! 
 
 <div align="center">
-Please do subscribe, like and comment on our channels, your enagement means the world to us and helps the channel!
+Please subscribe, like and comment on our channels, your enagement means the world to us and helps the channel!
 </div>
 
 ---
 
 <div align="center">
 
-<img src="images/atlonglastanalytics-logo_rectangle.png" alt="Your Logo" width="500" />
+<img src="images/atlonglastanalytics-logo_rectangle.png" alt="AtLongLast Analytics Logo" width="500" />
 
 </div>
