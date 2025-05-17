@@ -2,7 +2,7 @@
 
 AtLongLast Analytics helps organizations integrate data with their business processes to make meaningful changes to how they operate. We do this by providing expert services in data engineering and analytics, data strategy support and Azure cloud solutions.
 
-On our GitHub page, we share open-source software that we hope helps make new capability more accessible to the wider community. In the future we will be adding educational projects which demonstrate real-world solutions using typical technologies.
+On our GitHub page, we share open-source software to make new capability more accessible to the wider community and educational projects which demonstrate real-world solutions using typical technologies.
 
 🌱 We will be adding **exciting new** code repositories over the coming months!
 
@@ -18,7 +18,7 @@ Let's stay connected! Feel free to reach out to us on the following platforms:
 
 </div>
 
-This page is managed by our founder Robert Long and he'd love to hear from you. If you would like to talk to him directly or find additional content from our team, contact Rob on his LinkedIn:
+This page is managed by our founder Robert Long and he'd love to hear from you. If you would like to message him directly or read his other content, contact Rob on his LinkedIn:
 
 <div align="center">
 
