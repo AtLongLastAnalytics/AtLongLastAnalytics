@@ -4,8 +4,6 @@ AtLongLast Analytics helps organizations integrate data with their business proc
 
 On our GitHub page, we share open-source software to make new capability more accessible to the wider community and educational projects which demonstrate real-world solutions using typical technologies.
 
-🌱 We will be adding **exciting new** code repositories over the coming months!
-
 ## Stay Connected
 
 Let's stay connected! Feel free to reach out to us on the following platforms:
@@ -28,17 +26,22 @@ This page is managed by our founder Robert Long and he'd love to hear from you. 
 ---
 
 ## Our Projects
+
 Our open-source software projects include:
 
+- ✅ **Vigil**
+  [GitHub Repo](https://github.com/AtLongLastAnalytics/vigil)
+  - Open-source pipeline monitoring agent for Azure Synapse Analytics. Delivers automated daily health reports with managed identity authentication, immutable audit snapshots, and least-privilege RBAC — built for data engineering teams in regulated industries.
+
 - ✅ **VISaR**
-  [Technical Article](comingsoon) | 
+  [Technical Article](comingsoon) |
   [GitHub Repo](https://github.com/AtLongLastAnalytics/visar)
   - VISaR (Vulnerability Identification, Scanning and Reporting) provides an end-to-end solution for automated vulnerability scanning aimed at delivering actionable insights for data engineers, software developers and hobbyists.
 
-Some educational courses are coming soon, completely free! 
+Some educational courses are coming soon, completely free!
 
 <div align="center">
-Please subscribe, like and comment on our channels, your enagement means the world to us and helps the channel!
+Please subscribe, like and comment on our channels, your engagement means the world to us and helps the channel!
 </div>
 
 ---
